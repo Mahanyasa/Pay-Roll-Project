@@ -1,19 +1,29 @@
-#Digital Pay Roll System
+Project Name: Payroll Distribution System
 
-#Objectives of the project:
-#The main aim of this project is have a fully automated pay-roll system. 
-#This fully user friendly software will make the whole pay-roll system speedier and will guarantee on time salary to employees without any redundancy and delays. 
-#Moreover, it will certainly reduce the time, money and effort wasted in manual searching for leaves, deductions, grade allocation and designation allocation.
+Project Description: This project aims to create a payroll distribution system for a company that automates the process of calculating and distributing salaries to its employees. The system will include a database to store employee information, a calculation module to calculate salaries based on employee attendance and other factors, and a distribution module to distribute salaries to employees.
 
-#Existing System:
-#The Existing system is in fact very slow and highly delays prone. 
-#As the data stored is done manually, it takes a lot of time to process any query regarding information of any employee. 
-#The financial head has to search for a particular employee grade, leaves, designation and calculate the deductions before issuing him the pay slip. 
-#It requires huge man power if the organization is having a good number of employees. 
-#Due to manual operations, inconsistency in data management may prevail which can create faulty pay slips.
+Project Goal: The goal of this project is to create an efficient and reliable payroll distribution system that can handle the payroll process for a company's employees.
 
-#Proposed system:
-#The proposed software will remove any kind of redundancies and inconsistencies prevailing in the existing system by providing a fully computerized pay roll management system. 
-#The software will hold all the employee’s personal details, along with his grade, designation, leaves and other deductions. 
-#The reports and the pay slips can be generated with a single mouse click. 
-#The GUI of the software is very user friendly, easy to navigate and can easily be managed by a non tech-savvy person.
+Project Approach: The project will follow the following steps:
+
+Database Design: The database will be designed to store employee information such as name, employee ID, position, salary, attendance, and other relevant data.
+
+Calculation Module: The calculation module will be created to calculate salaries based on employee attendance, overtime, deductions, and other factors.
+
+Distribution Module: The distribution module will be created to distribute salaries to employees via bank transfer, check, or cash payment.
+
+User Interface: A user interface will be created to allow users to interact with the system and input data such as attendance, overtime, and deductions.
+
+Security Measures: Security measures will be implemented to ensure that sensitive employee information is protected.
+
+Testing and Debugging: The system will be thoroughly tested to ensure that it is functioning correctly and any bugs will be fixed.
+
+Project Deliverables:
+
+Code: All code used in the project will be provided.
+
+Report: A report detailing the project's findings, including visualizations and data analysis.
+
+Presentation: A presentation summarizing the project and its findings will be created.
+
+System: The final payroll distribution system will be provided, which can be used to automate the process of calculating and distributing salaries to a company's employees.
